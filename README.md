@@ -108,9 +108,11 @@ OUTPUT_DIR ='skirt'
 
 选择训练后模型与训练中示例图片的保存路径。
 
+
 ![image-20240401120546511](C:\Users\风起\AppData\Roaming\Typora\typora-user-images\image-20240401120546511.png)
 
 上图为一张skirt训练结果，第一行的三张依次是第1个、第2个、第3个Stage的响应图合成结果，第二行的三张分别对应第6个Stage的响应图合成结果、正确答案、正确答案和原图的合成，证明关键点捕捉准确。
+
 
 ![step1](C:\Users\风起\Desktop\cv_design_pict\cpm\step1.png)
 
