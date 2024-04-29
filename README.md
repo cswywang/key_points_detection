@@ -109,14 +109,17 @@ OUTPUT_DIR ='skirt'
 选择训练后模型与训练中示例图片的保存路径。
 
 
-![image-20240401120546511](C:\Users\风起\AppData\Roaming\Typora\typora-user-images\image-20240401120546511.png)
+![sample_68](https://github.com/nhy0/key_points_detection/assets/126053131/2942aa4d-92c7-4d36-b45b-969ee46d1191)
+
 
 上图为一张skirt训练结果，第一行的三张依次是第1个、第2个、第3个Stage的响应图合成结果，第二行的三张分别对应第6个Stage的响应图合成结果、正确答案、正确答案和原图的合成，证明关键点捕捉准确。
 
 
-![step1](C:\Users\风起\Desktop\cv_design_pict\cpm\step1.png)
+![step1](https://github.com/nhy0/key_points_detection/assets/126053131/d34773de-4d03-4062-975a-e238b623da98)
 
-![step2](C:\Users\风起\Desktop\cv_design_pict\cpm\step2.png)
+
+![step2](https://github.com/nhy0/key_points_detection/assets/126053131/e146645f-bfd9-4a23-ad21-4d2ae5dcbac0)
+
 
 为更好地完成关键点检测任务，我对于特征提取过程做了些许修改，这是我们改进后地模型训练具体流程。
 
