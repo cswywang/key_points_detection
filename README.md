@@ -114,6 +114,7 @@ OUTPUT_DIR ='skirt'
 
 ![image](https://github.com/nhy0/key_points_detection/assets/126053131/a0293959-2e2e-4f9c-90a1-10ccd746a15b)
 ![image](https://github.com/nhy0/key_points_detection/assets/126053131/a7894f24-31f8-48eb-8b81-1fd7d97eaae0)
+
 为更好地完成关键点检测任务，我对于特征提取过程做了些许修改，这是我们改进后地模型训练具体流程。
 
 ### 预训练模型：
