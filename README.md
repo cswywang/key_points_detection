@@ -112,7 +112,9 @@ OUTPUT_DIR ='skirt'
 
 上图为一张skirt训练结果，第一行的三张依次是第1个、第2个、第3个Stage的响应图合成结果，第二行的三张分别对应第6个Stage的响应图合成结果、正确答案、正确答案和原图的合成，证明关键点捕捉准确。
 
-
+![image](https://github.com/nhy0/key_points_detection/assets/126053131/a0293959-2e2e-4f9c-90a1-10ccd746a15b)
+![image](https://github.com/nhy0/key_points_detection/assets/126053131/a7894f24-31f8-48eb-8b81-1fd7d97eaae0)
+为更好地完成关键点检测任务，我对于特征提取过程做了些许修改，这是我们改进后地模型训练具体流程。
 
 ### 预训练模型：
 
