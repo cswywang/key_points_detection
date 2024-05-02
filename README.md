@@ -44,7 +44,7 @@ Github上有CPM的一个开源实现（[https://github.com/timctho/convolutional
 |         numpy         | 1.18.5              |
 |        pandas         | 1.2.4               |
 |     scikit-learn      | 0.24.2              |
-|     opencv-python     |4.6.0.66             |
+| opencv-contrib-python |4.5.1.48             |
 |      matplotlib       | 3.4.1               |
 |        imageio        | 2.15.0              |
 |         tqdm          | 4.64.1              |
